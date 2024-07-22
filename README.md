@@ -11,3 +11,5 @@ Note: Make sure you have installed native code dependencies [here](https://react
     1. Press  `i`  to view on iOS simulator or follow the instructions [here](https://docs.expo.dev/workflow/run-on-device/) to run on a physical device.
 5. Run on For android device
     1. Press  `a`  to view on Android Virtual Device or follow the instructions [here](https://docs.expo.dev/workflow/run-on-device/) to run on a physical device.
+
+![Figma](https://github.com/user-attachments/assets/43963188-8dd7-4d77-8610-ca0aac69ef8a)
